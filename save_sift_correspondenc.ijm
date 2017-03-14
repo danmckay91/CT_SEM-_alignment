@@ -12,7 +12,7 @@ rename("BSEI")
 
 list = getFileList(STACK_PATH);
 list = Array.sort(list)
-for (i=470;i < 535; i++) { // was for (i=1;i < list.length; i++)
+for (i=1;i < list.length; i++) {
 	print(list[i]);
 	open(stackdir+list[i]);	
 	rename("CT_slice");
