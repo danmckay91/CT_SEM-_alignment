@@ -13,13 +13,13 @@ A header file containing functions to load save and manipulate image stacks in p
 
 save_sift_correspondenc.ijm
 
-An imageJ macro which compares each slice in a CT stack to the 2D back scattered electron image and save a table of the matching points.
+An imageJ macro which compares each slice in a CT stack to the 2D back scattered electron image and saves a table of the matching points.
 
 ########
 
 plane_fit.py
 
-Contains functions required to fit a plane/paraboloid to the saved from imageJ/
+Contains functions required to fit a plane/paraboloid to the saved table from imageJ/
 
 #####
 
